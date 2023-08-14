@@ -1,7 +1,7 @@
 {
     "name": "CHATBOT", 
     "logo": "https://te.legra.ph/file/0da655f3df2a9ec2473c5.jpg",
-    "description": "𝐀𝐍 𝐀𝐃𝐕𝐀𝐍𝐂𝐄𝐃 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐔𝐒𝐄𝐑𝐑𝐈𝐃 𝐂𝐇𝐀𝐓𝐁𝐎𝐓 𝐌𝐀𝐃𝐄 𝐁𝐘 @SexyException.",
+    "description": "𝐀𝐍 𝐀𝐃𝐕𝐀𝐍𝐂𝐄𝐃 𝐓𝐄𝐋𝐄𝐆𝐑𝐀𝐌 𝐔𝐒𝐄𝐑𝐑𝐈𝐃 𝐂𝐇𝐀𝐓𝐁𝐎𝐓.",
     "buildpacks": [{
       "url": "heroku/python"
     }],
