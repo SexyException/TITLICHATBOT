@@ -6,6 +6,8 @@
       "url": "heroku/python"
     }],
     "env": {
+        "repository": "https://github.com/SexyException/TITLICHATBOT",
+        
         "STRING": {
             "description": "Pyrogram (V1.4) String session of your account",
             "required": true
