@@ -1,1 +1,1 @@
-Altron: python3 titli.py
+altron: python3 titli.py
